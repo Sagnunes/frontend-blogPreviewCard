@@ -12,7 +12,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
     - [Links](#links)
 - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -55,11 +54,6 @@ Mobile view:
 - CSS Grid
 - Mobile-first workflow
 - [TailwindCSS](https://tailwindcss.com/) - CSS library
-
-### What I learned
-
-I learned a little more about grids although I still found it a little difficult to place the components in the correct
-place.
 
 ## Author
 
