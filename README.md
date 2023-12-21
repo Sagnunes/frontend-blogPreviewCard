@@ -29,9 +29,15 @@ Users should be able to:
 ### Screenshot
 Desktop view:
 ![desktop.png](design%2Fscreenshots%2Fdesktop.png)
+
+
 with hover effect:
+
 ![hover_effect.png](design%2Fscreenshots%2Fhover_effect.png)
+
+
 Mobile view:
+
 ![mobile.png](design%2Fscreenshots%2Fmobile.png)
 
 ### Links
